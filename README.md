@@ -1,3 +1,3 @@
 # Hello-world
 
-chnages are made
+Changes are made
